@@ -1,7 +1,7 @@
 streamlit
-pypdf
 sentence-transformers
-scikit-learn
+pypdf
+numpy
 torch
 torchvision
-numpy
+scikit-learn
